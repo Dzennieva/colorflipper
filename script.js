@@ -16,7 +16,7 @@ const getRandomNumber = () => {
 }
 
 resetBtn.addEventListener('click', () => {
-  document.body.style.backgroundColor = 'hsl(25.71,46.67%,97.06%)';
-  color.textContent = '#Fbf7f4';
+  document.body.style.backgroundColor = '#Fbf7f4';
+  color.textContent = '#FBF7F4';
 })
 
